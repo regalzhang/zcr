@@ -1,0 +1,6 @@
+1. 完成High-Level-Synthesis-Flow-on-Zynq-using-Vivado-HLS
+注：用虚拟机的同学如果无法通过tcl文件生成工程，请从别的同学电脑上拷贝他们的工程到自己电脑上
+
+2. 课后习题
+学习pp4fpgas上的多个算法，恢复提供的HLS工程并研究其中的代码。
+https://github.com/xupsh/pp4fpgas-cn-hls
